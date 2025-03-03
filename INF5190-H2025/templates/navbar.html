@@ -1,0 +1,19 @@
+<nav>
+    <input type="checkbox" id="nav__checkbox" role="button" aria-pressed="true">
+    <label for="nav__checkbox" id="nav__toggler">
+        <span id="nav__toggler-icon"></span>
+    </label>
+    <ul class="nav__menu" id="nav__menu">
+        <li><a href="{{ url_for('signin') }}">S'enregistrer</a></li>
+        <li><a href="{{ url_for('login') }}">Se connecter</a></li>
+        <li><a href="{{ url_for('logout') }}">Se déconnecter</a></li>
+
+        {#<li>
+            <a href="#" class="nav__dropdown-toggle">Laboratoires</a>
+            <ul class="nav__dropdown" id="dropdown">
+                <li><a href="{{ url_for('labo1') }}">Laboratoire 1</a></li>
+                <li><a href="{{ url_for('labo2') }}">Laboratoire 2</a></li>
+            </ul>
+        </li>#}
+    </ul>
+</nav>
