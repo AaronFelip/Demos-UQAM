@@ -1,10 +1,8 @@
 ### Salut à tous! 👋
-#### Voici le repo des démos que je donne à l'UQAM.
-‼️ Les solutions peuvent parfois comporter des **erreurs**, intentionnellement incluses pour servir d'exemples lors des démonstrations. Présentez-vous à vos démonstrations pour la solution officielle. 
-Je ne partage aucune solution par courriel ou par discord.
+#### Voici le repo des démos que je donnais à l'UQAM entre 2023 et 2025.
+‼️ Les solutions peuvent parfois comporter des **erreurs**, intentionnellement incluses pour servir d'exemples lors des démonstrations. P
 
 ## Avis aux démonstrateurs qui utilisent mon matériel
-
 Vous êtes autorisés à reprendre en partie ou en entier le code que j'ai écrit au fil du temps.
 
 Voici quelques conseils qui pourraient vous être utiles :
@@ -15,7 +13,8 @@ Voici quelques conseils qui pourraient vous être utiles :
 - Un chargé de cours n'est pas votre évaluateur. Votre laboratoire est votre *safe space* : n'acceptez jamais la présence d'un enseignant dans votre local, de la même manière qu'un chargé de cours n’accepterait pas la présence d’un prof dans son local.
 - Rappelez-vous que vous êtes membre à part entière de l’équipe d’enseignement, et non l’employé du chargé de cours. Il n’y a aucune hiérarchie entre vous. N’acceptez jamais d’être dans une situation semblable.
 - Il est vrai qu'un chargé de cours peut exiger que vous ne partagiez pas ses énoncés ou ses solutionnaires, mais il ne dispose d'aucun droit sur le code que vous produisez. Vous avez le droit de distribuer vos solutionnaires à la terre entière si cela vous chante.
-- Ne dépassez jamais les deux heures de démonstration. Si le contenu est trop dense, la responsabilité incombe au chargé de cours. Sachez qu'un chargé de cours fait en moyenne 10 fois votre salaire horaire — oui, vous avez bien lu, 10 fois le vôtre — alors soyez sans crainte : elle ou il ne mourra pas de prendre ses responsabilités. Votre contrat 950$ vs 10 000$ pour un nombre d'heure de travail équivalent, surtout pour les chargés de cours qui reprennennet indefiniment le même matériel.
+- Ne dépassez jamais les deux heures de démonstration. Si le contenu est trop dense, la responsabilité incombe au chargé de cours. Sachez qu'un chargé de cours fait en moyenne 10 fois votre salaire horaire — oui, vous avez bien lu, 10 fois le vôtre — alors soyez sans crainte : elle ou il ne mourra pas de prendre ses responsabilités.
+- Un chargé de cours n'est pas un pédagogue formé pour enseigner à l'unversité, tentez de ne pas l'oublier.
 - Si, pour une quelconque raison, vous vous sentez dépassé ou écrasé par la charge de travail, ou si vous avez un chargé de cours qui délègue trop, n’hésitez pas à m’écrire. Vous trouverez mon adresse courriel dans l'annuaire de l’UQAM.
 
 **Bonne session !**
