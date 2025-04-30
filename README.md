@@ -6,6 +6,10 @@ Aux quelques 600 ou 700 étudiants qui ont passés par mes labos: c'était vraim
 En tant qu'étudiant au bac, je remercie tous ces étudiants de maîtrise qui ont accepté d'être non seulement **guidés**, mais aussi **corrigés** par moi.  
 Du fond du **cœur**, merci pour cette opportunité, qui était une première à l'UQAM.
 
+Merci à Jacques Berger, ses connaissances et son soutient non pas de prix, tout à commencé avec toi, merci. 
+Merci au département de génie logiciel et surtout merci au big boss des maîtrises en genie logiciel, Dr Hafedh Mili pour m'avoir donnée la chance de me dépasser à un point que je ne pensais pas possible.
+
+Aaron Osorio
 
 ## Avis aux démonstrateurs qui utilisent mon matériel
 Vous êtes autorisés à reprendre en partie ou en entier le code que j'ai écrit au fil du temps.
