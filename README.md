@@ -1,6 +1,11 @@
 ### Salut à tous! 👋
 #### Voici le repo des démos que je donnais à l'UQAM entre 2023 et 2025.
-‼️ Les solutions peuvent parfois comporter des **erreurs**, intentionnellement incluses pour servir d'exemples lors des démonstrations. P
+‼️ Les solutions peuvent parfois comporter des **erreurs**, intentionnellement incluses pour servir d'exemples lors des démonstrations.  
+
+Aux quelques 600 ou 700 étudiants qui ont passés par mes labos: c'était vraiment un plaisir de vous faire part de mon expérience, et je pense que, de manière générale, nous avons bien **ri** durant les démonstrations.  
+En tant qu'étudiant au bac, je remercie tous ces étudiants de maîtrise qui ont accepté d'être non seulement **guidés**, mais aussi **corrigés** par moi.  
+Du fond du **cœur**, merci pour cette opportunité, qui était une première à l'UQAM.
+
 
 ## Avis aux démonstrateurs qui utilisent mon matériel
 Vous êtes autorisés à reprendre en partie ou en entier le code que j'ai écrit au fil du temps.
