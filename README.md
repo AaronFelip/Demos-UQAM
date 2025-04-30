@@ -8,7 +8,8 @@ Du fond du **cœur**, merci pour cette opportunité, qui était une première à
 
 Merci à Jacques Berger, ses connaissances et son soutient non pas de prix et merci au département de génie logiciel et particulièrement Dr Hafedh Mili pour m'avoir donnée la chance de me dépasser.
 
-Aaron Osorio 
+Aaron Osorio   
+On reste connecté?  
 [Mon profil LinkedIn](https://www.linkedin.com/in/aaron-osorio/)
 
 
